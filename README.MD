@@ -44,5 +44,9 @@
  <h1>Estatísticas</h1>
 </div>
 <br>
+
 <div align="center">
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/victinhoos/victinhoos/output/github-contribution-grid-snake.svg" />
 </div>
