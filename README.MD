@@ -45,16 +45,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/victinhoos/victinhoos/output/github-contribution-grid-snake.svg" />
 </div>
-
-<div align="left">
- <h1>Estatísticas</h1>
-</div>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img src="https://github-readme-stats.vercel.app/api?username=victinhoos&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victinhoos&layout=compact&langs_count=7&theme=dark&cache_seconds=86400"/>
-
-  </a>
-</div>
-<br>
