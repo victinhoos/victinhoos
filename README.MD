@@ -46,11 +46,11 @@
   <img src="https://raw.githubusercontent.com/victinhoos/victinhoos/output/github-contribution-grid-snake.svg" />
 </div>
 <div align="center">
+<div align="center">
   <h2>📊 Estatísticas do GitHub</h2>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victinhoos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victinhoos&layout=compact&theme=tokyonight"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=victinhoos&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victinhoos&layout=compact&theme=tokyonight"/>
   </a>
 </div>
-<br>
