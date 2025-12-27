@@ -48,9 +48,14 @@
 <div align="center">
 <div align="center">
   <h2>📊 Estatísticas do GitHub</h2>
-  <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=victinhoos&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victinhoos&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
