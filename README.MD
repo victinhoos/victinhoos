@@ -3,7 +3,7 @@
 </div>
 
 <div align="left">
-    <p>Eu sou um engenheiro de software, amante de Java, da causa open source e de Cibersegurança.</p>
+    <p>Eu sou desenvolvedor, amante de Java, da causa open source e de Cibersegurança.</p>
 </div>
 
 ### Projetos
