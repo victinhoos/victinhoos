@@ -3,10 +3,17 @@
 </div>
 
 <div align="left">
-    <p>Eu sou desenvolvedor, amante de Java, da causa open source e de Cibersegurança.</p>
+    <p>Eu sou um engenheiro de software, amante de Java, da causa open source e de Cibersegurança.</p>
 </div>
 
 ### Projetos
+
+* 🛡️ [Web Security Labs](https://github.com/victinhoos/web-security-labs) — Ambientes controlados para estudo de Segurança Ofensiva...
+
+ * ✂️ [EncurtadorURLs](https://github.com/victinhoos/ImageFlow) — API RESTful de encurtamento de URLs de alta performance com Spring Boot, MongoDB e Redis
+
+* 🖼️ [ImageFlow — Microsserviço Serverless](https://github.com/victinhoos/ImageFlow) para processamento e otimização automática de imagens com AWS Lambda e Amazon S3
+
 ### Linguagens e Ferramentas
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
