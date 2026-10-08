@@ -1,47 +1,31 @@
 <div align="center">
-    <h1>👨🏻‍💻 Victor Elias</h1>
+    <h1> Olá mundo, meu nome é Victor 👋</h1>
 </div>
-
-<blockquote>
-  <p align="center">Engenheiro de Software. Apaixonado por Matemática, Cibersegurança e Redes de Computadores.</p>
-</blockquote>
-
-<p>
-  Me chamo Victor Elias, tenho 21 anos, sou Pernambucano. Possuo técnico em Desenvolvimento de Sistemas pela Escola Técnica Ginásio Pernambucano. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIBRA. Sou apaixonado por tecnologia.
-</p>
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/SEU_USUARIO_AQUI" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-</p>
-
-<hr style="border:0; height:2px; background:#007ACC;">
 
 <div align="left">
-   <h1>Tech Stack</h1>
-</div>
-<br>
-
-<div align="center">
-  <h3> 🤖 Linguagens e Tecnologias</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,php,laravel,wordpress,java,spring,py" />
-  
-  <br> 
-  
-  <h3> ☁️ DevOps & Banco de Dados</h3>
-  <img src="https://skillicons.dev/icons?i=aws,git,docker,mysql,mongodb,postgres,linux" />
+    <p>Eu sou um engenheiro de software, amante de Java, da causa open source e de Cibersegurança.</p>
 </div>
 
-<br>
+### Projetos
+### Linguagens e Ferramentas
 
-<hr style="border:0; height:2px; background:#007ACC;">
-
-<div align="center">
-</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/victinhoos/victinhoos/output/github-contribution-grid-snake.svg" />
-</div>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/postgresql-white?style=flat-square&logo=postgresql&logoColor=blue)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=flat-square&logo=rabbitmq&logoColor=white)
